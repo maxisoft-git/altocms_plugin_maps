@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin compatible="alto">
+    <name>
+        <lang name="default">Maps - Yandex/Google maps</lang>
+        <lang name="ru">Maps - Яндекс/Google карты</lang>
+    </name>
+    <author>
+        <lang name="default">maxiSoft</lang>
+    </author>
+    <homepage>http://themeinstant.ru</homepage>
+    <version>0.1</version>
+    <requires>
+        <alto>
+            <version>1.0.10</version>
+        </alto>
+        <system>
+            <php>5.3.0</php>
+        </system>
+    </requires>
+    <description>
+        <lang name="default">Add topic fields for Yandex/Google Maps</lang>
+        <lang name="ru">Добавляет к полям топика карту Яндекс/Google</lang>
+    </description>
+</plugin>
